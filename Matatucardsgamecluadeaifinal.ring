@@ -1475,24 +1475,20 @@ the game</span><br>
 style="color: rgb(204, 153, 51); text-decoration: underline; font-weight: bold;">Basic
 mode</span><br>
 1. The goal is to be the first player to play all your cards<br>
-2. Place a card on the <span
-style="font-weight: bold; color: rgb(204, 0, 0);">discard pile</span>
-based on the last card that was played. For instance, you can put a <span
-style="font-weight: bold; text-decoration: underline;">heart</span> on
+2. Place a card on the <spanstyle="font-weight: bold; color: rgb(204, 0, 0);">discard pile</span>
+based on the last card that was played. For instance, you can put a <span style="font-weight: bold; text-decoration: underline;">heart</span> on
 another <span style="font-weight: bold; text-decoration: underline;">heart</span>
-regardless of the <span
-style="font-weight: bold; text-decoration: underline;">number</span> <br>
+regardless of the <spanstyle="font-weight: bold; text-decoration: underline;">number</span> <br>
 &nbsp;&nbsp;&nbsp; that is stated on the card. Also, a <span
 style="font-weight: bold; text-decoration: underline;">3 of Spades</span>
-can be played on a <span
-style="font-weight: bold; text-decoration: underline;">3 of Clubs</span>,
+can be played on a <span style="font-weight: bold; text-decoration: underline;">3 of Clubs</span>,
 but a <span style="font-weight: bold; text-decoration: underline;">5
 of spades</span> can not go on a <span
 style="font-weight: bold; text-decoration: underline;">9 of diamonds.</span><br>
 <big style="text-decoration: underline;"><big><span
 style="font-weight: bold;">ie</span></big></big>&nbsp;&nbsp; <span
 style="color: rgb(60, 46, 216); font-weight: bold;">cards played
-should be same suit or same value Until you finish your cards first</span><br>
+should be same suit or same value Until you finish your cards first. DRAW/PICK A CARD from deck IF YOU DO NOT HAVE A CARD TO PLAY </span><br>
 <br>
 <span
 style="color: rgb(204, 153, 51); text-decoration: underline; font-weight: bold;">Advanced
