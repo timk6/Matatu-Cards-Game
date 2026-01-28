@@ -1,5 +1,5 @@
 # Matatu-Cards-Game
-Ring prog lang code of a Matatu Cards Game  -Developed using Claude ai
+Ring prog lang code (1.22) of a Matatu Cards Game  -Developed using Claude ai
 ## 📖 Screeshots
 
 <table>
